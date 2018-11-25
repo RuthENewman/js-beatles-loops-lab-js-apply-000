@@ -25,4 +25,4 @@ function iLoveTheBeatles(number) {
   number++;
 } while (number < 15); 
 
-console.log(array);
+console.log(this.array);
