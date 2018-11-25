@@ -6,8 +6,8 @@ function theBeatlesPlay(musicians, instruments) {
     let string = musicians[counter] + " plays " + instruments[counter];
     array.push(string);
   }
-  
+  }
 }
 
 
-function johnLennonFacts = facts
+// function johnLennonFacts = facts
